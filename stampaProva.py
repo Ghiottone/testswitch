@@ -1,0 +1,1 @@
+print("Versione di prova 1")
